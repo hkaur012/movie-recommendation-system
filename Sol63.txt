@@ -1,0 +1,14 @@
+***********TOP 5 RECOMMENDATIONS**************
+(5.0, 'Wedding Gift, The (1994)') 
+(5.0, "Someone Else's America (1995)") 
+(5.0, "Some Mother's Son (1996)") 
+(5.0, 'Santa with Muscles (1996)') 
+(5.0, 'Saint of Fort Washington, The (1993)')
+
+
+***********BOTTOM 5 RECOMMENDATIONS ******************
+(1.0, 'August (1996)')
+(1.0, 'Amityville 3-D (1983)')
+(1.0, 'American Strays (1996)')
+(1.0, '3 Ninjas: High Noon At Mega Mountain (1998)')
+(1.0, '1-900 (1994)')

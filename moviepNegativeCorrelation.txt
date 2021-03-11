@@ -1,0 +1,2 @@
+[(-1.0000000000000027, 'Bride of Frankenstein (1935)'), (-1.000000000000001, 'Boogie Nights (1997)'), (-1.000000000000001, 'Leaving Las Vegas (1995)'), (-1.0000000000000007, 'Flirting With Disaster (1996)'), (-1.0000000000000007, 'Kiss the Girls (1997)')]
+[(1.0, 'Screamers (1995)'), (1.0, 'Simple Twist of Fate, A (1994)'), (1.0, 'Sleeper (1973)'), (1.0, 'Timecop (1994)'), (1.0000000000000018, 'Paper, The (1994)')]

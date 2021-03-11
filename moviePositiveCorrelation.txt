@@ -1,0 +1,2 @@
+[(-1.0000000000000022, 'Steel (1997)'), (-1.0, 'Anne Frank Remembered (1995)'), (-1.0, 'Bloodsport 2 (1995)'), (-1.0, 'Calendar Girl (1993)'), (-1.0, 'Female Perversions (1996)')]
+[(1.0000000000000007, 'Daytrippers, The (1996)'), (1.0000000000000007, "Eve's Bayou (1997)"), (1.0000000000000007, 'Free Willy 3: The Rescue (1997)'), (1.0000000000000007, 'Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)'), (1.0000000000000013, "Microcosmos: Le peuple de l'herbe (1996)")]
